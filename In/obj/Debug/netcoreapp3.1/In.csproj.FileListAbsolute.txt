@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\In\bin\Debug\netcoreapp3.1\In.exe
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\In\bin\Debug\netcoreapp3.1\In.deps.json
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\In\bin\Debug\netcoreapp3.1\In.runtimeconfig.json
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\In\bin\Debug\netcoreapp3.1\In.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\In\bin\Debug\netcoreapp3.1\In.dll
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\In\bin\Debug\netcoreapp3.1\In.pdb
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\In\obj\Debug\netcoreapp3.1\In.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\In\obj\Debug\netcoreapp3.1\In.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\In\obj\Debug\netcoreapp3.1\In.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\In\obj\Debug\netcoreapp3.1\In.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\In\obj\Debug\netcoreapp3.1\In.dll
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\In\obj\Debug\netcoreapp3.1\In.pdb
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\In\obj\Debug\netcoreapp3.1\In.genruntimeconfig.cache
